@@ -1,3 +1,10 @@
+## Preview and Planning 
+### Postman 
+![Output](https://github.com/aritra1999/go_auth/blob/master/request.png)
+### POA
+![Output](https://github.com/aritra1999/go_auth/blob/master/diagram.png)
+
+## Local Setup 
 ### Installing and setting up Go in linux (Ubuntu 18.04)
 1. Installing Go from the Snap Store: `sudo snap install go`
 2. Create Project dir: `mkdir go_auth; cd go_auth`
@@ -38,4 +45,5 @@
 	}
 	```
 - Start server:  `go run main.go`
+
 
