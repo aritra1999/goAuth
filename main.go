@@ -141,3 +141,4 @@ func CreateAuth(userid uint64, td *TokenDetails) error {
  	}
 	return nil
 }
+
