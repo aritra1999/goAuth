@@ -30,7 +30,7 @@ type TokenDetails struct {
 
 //A sample use
 var user = User{
-	ID:          1,
+	ID: 1,
 	Username: "username",
 	Password: "password",
 }
